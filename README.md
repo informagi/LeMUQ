@@ -77,12 +77,18 @@ This fork follows the original TruthTorchLM license. The license file has been a
 If you use this repository, please cite the paper:
 
 ```bibtex
-@inproceedings{anonymous2026lemuq,
-  title = {Uncertainty Quantification for Multimodal Retrieval Augmented Generation},
-  author = {Anonymous Authors},
-  booktitle = {To appear},
-  year = {2026},
-  url = {https://anonymous.4open.science/}
+@inproceedings{binz2026uncertaintyquantificationmultimodalretrieval,
+  author    = {Binz, Simon and Soudani, Heydar and Hasibi, Faegheh},
+  title     = {Uncertainty Quantification for Multimodal Retrieval Augmented Generation},
+  year      = {2026},
+  isbn      = {979-8-4007-2600-2/2026/07},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  url       = {https://doi.org/10.1145/3805713.3820431},
+  doi       = {10.1145/3805713.3820431},
+  booktitle = {Proceedings of the 2026 International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR)},
+  location  = {Melbourne, VIC, Australia},
+  series    = {ICTIR '26}
 }
 ```
 
